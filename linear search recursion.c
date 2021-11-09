@@ -54,4 +54,6 @@ enter array elements
 3
 4
 5
-enter elements to search*/
+enter elements to search 3
+element found at pos 1 */
+
