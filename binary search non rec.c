@@ -27,3 +27,9 @@ if(low > high)
 printf("Not found! %d isn't present in the list.n", key);
 return 0;
 }
+/*enternumber of elements 3
+enter 3 integers 3
+4
+5
+enter value to find 5
+5 found at location */
