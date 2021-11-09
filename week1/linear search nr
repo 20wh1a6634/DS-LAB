@@ -33,6 +33,14 @@ int main(){
     else{
         printf("Element found at %d.\n", pos);
     }
+    \*enter size:5
+    enter 5 elements:5
+    1
+    8 
+    7
+    9
+    element to be searched:8
+    element found at 3 */
 
 
 }
