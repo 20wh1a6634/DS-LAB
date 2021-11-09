@@ -37,12 +37,12 @@ int main(){
 
 
 }
-\\ output:
-enter size:5
+
+/*enter size:5
 enter 5 elements:1
 5
 8  
 7
 9
 element to be searched:8
-element found at 3
+element found at 3 */
