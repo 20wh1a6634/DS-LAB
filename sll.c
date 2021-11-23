@@ -180,3 +180,100 @@ int main(){
 }
 }
 }
+output:
+    
+case1:
+1-create(), 2-insert at begin, 3-insert at end, 4- insert at pos, 5-display
+enter your choise
+1
+Enter the total number of nodes
+5
+enter the value to be inserted in the node
+2
+enter the value to be inserted in the node
+3
+enter the value to be inserted in the node
+4
+enter the value to be inserted in the node
+5
+enter the value to be inserted in the node
+6
+
+case2:
+  1-create(), 2-insert at begin, 3-insert at end, 4- insert at pos, 5-display
+enter your choise
+2
+enter the value to be inserted
+1
+
+case3:
+  1-create(), 2-insert at begin, 3-insert at end, 4- insert at pos, 5-display
+enter your choise
+3
+enter the value to be inserted
+7
+
+case4:
+  1-create(), 2-insert at begin, 3-insert at end, 4- insert at pos, 5-display
+enter your choise
+4
+enter the value and position
+ 9
+4
+
+case5:
+  1-create(), 2-insert at begin, 3-insert at end, 4- insert at pos, 5-display
+enter your choise
+5
+1->2->3->9->4->5->6->7
+case 6:
+  1 -> 2 -> 3 -> 4 -> 5
+  
+  enter your choise
+  6
+  deleted element is:1
+  enter your choise
+  5
+  2 -> 3 -> 4 -> 5
+
+case 7:
+  enter your choise
+  7
+  deleted element is:5
+  enter your choise
+  5
+  2 -> 3 -> 4
+  
+case 8:
+     enter your choise
+     8
+    enter the position
+    2
+    deleted element 3
+    enter your choise
+    5
+    2 -> 4
+    
+case 9:
+     enter your choise
+     9
+     4 2 
+     
+case 10:
+     enter your choise
+     10
+     enter the key value to be searched
+     4
+     element found at 2 
+    
+case 11:
+     enter your choise
+     5
+     3 -> 9 -> 2 -> 5 -> 1 -> 7
+     enter your choise
+     11
+     enter your choise
+     5
+     1 -> 2 -> 3 -> 5 -> 7 -> 9
+ 
+
