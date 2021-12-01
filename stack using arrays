@@ -57,3 +57,79 @@ int main()
            }
            }
            }
+           OUTPUT:
+1-push
+2-pop
+3-peek
+4- display
+5- exit
+1
+Enter the element: 1
+
+1-push
+2-pop
+3-peek
+4- display
+5- exit
+1
+Enter the element: 2
+
+1-push
+2-pop
+3-peek
+4- display
+5- exit
+1
+Enter the element: 3
+
+1-push
+2-pop
+3-peek
+4- display
+5- exit
+1
+Enter the element: 4
+
+1-push
+2-pop
+3-peek
+4- display
+5- exit
+1
+Enter the element: 5
+
+1-push
+2-pop
+3-peek
+4- display
+5- exit
+4
+54321
+1-push
+2-pop
+3-peek
+4- display
+5- exit
+2
+Deleted element is 5
+1-push
+2-pop
+3-peek
+4- display
+5- exit
+3
+Top element is 4
+1-push
+2-pop
+3-peek
+4- display
+5- exit
+4
+4321
+1-push
+2-pop
+3-peek
+4- display
+5- exit
+5
+
