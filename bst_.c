@@ -77,4 +77,72 @@ case 5: exit(0);
 }
 }
 
-
+ //output//
+  1.create
+ 2.preorder
+ 3.inorder
+ 4.postorder
+ 5.exit
+enter your choice
+1
+5
+1.create
+ 2.preorder
+ 3.inorder
+ 4.postorder
+ 5.exit
+enter your choice
+1
+2
+1.create
+ 2.preorder
+ 3.inorder
+ 4.postorder
+ 5.exit
+enter your choice
+1
+6
+1.create
+ 2.preorder
+ 3.inorder
+ 4.postorder
+ 5.exit
+enter your choice
+2
+5
+2
+6
+1.create
+ 2.preorder
+ 3.inorder
+ 4.postorder
+ 5.exit
+enter your choice
+33
+1.create
+ 2.preorder
+ 3.inorder
+ 4.postorder
+ 5.exit
+enter your choice
+3
+2
+5
+6
+1.create
+ 2.preorder
+ 3.inorder
+ 4.postorder
+ 5.exit
+enter your choice
+4
+2
+6
+5
+1.create
+ 2.preorder
+ 3.inorder
+ 4.postorder
+ 5.exit
+enter your choice
+5
