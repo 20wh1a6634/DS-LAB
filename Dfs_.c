@@ -27,3 +27,20 @@ for (i=1;i<=n;i++)
 dfs(1);
 printf("\n");
 }
+#output:
+Enter number of vertices:2
+
+ Enter the adjacency matrix:
+1 2
+3
+4
+
+ 1->2
+Enter number of vertices:3
+Enter the adjacency matrix:
+1 2 3
+4 5 6
+8 9 0
+
+ 1->2
+ 2->3
