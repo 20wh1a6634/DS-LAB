@@ -31,3 +31,28 @@ printf("\n Enter the starting vertex:");
 scanf("%d",&v);
 bfs(v);
 }
+#output:
+#Enter the number of vertices:3
+
+ Enter graph data in matrix form:
+1 2 3
+12 6 7
+8 9 1
+
+ Enter the starting vertex:2
+
+ 2->1
+ 2->2
+ 2->3
+ 1->2
+ 1->3
+ 2->3
+ #Enter the number of vertices:2
+#Enter graph data in matrix form:
+1 2
+2 4
+Enter the starting vertex: 2
+
+ 2->1
+ 2->2
+ 1->2
