@@ -27,3 +27,30 @@ int main()
     }
     return 0;
 }
+#output
+#enter the no of elements
+4
+#enter the integers 
+4
+5
+8
+3
+#sorted list in ascending order
+3
+4
+5
+8
+ #enter the no of elements
+5
+#enter the integers 
+4
+5
+8
+3
+2
+#sorted list in ascending order
+2
+3
+4
+5
+8
